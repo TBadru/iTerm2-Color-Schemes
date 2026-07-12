@@ -1374,6 +1374,38 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/no-clown-fiesta.png)
 
+### Noctis Azureus
+
+![Screenshot](/screenshots/noctis-azureus.png)
+
+### Noctis Bordo
+
+![Screenshot](/screenshots/noctis-bordo.png)
+
+### Noctis Minimus
+
+![Screenshot](/screenshots/noctis-minimus.png)
+
+### Noctis Obscuro
+
+![Screenshot](/screenshots/noctis-obscuro.png)
+
+### Noctis Sereno
+
+![Screenshot](/screenshots/noctis-sereno.png)
+
+### Noctis Uva
+
+![Screenshot](/screenshots/noctis-uva.png)
+
+### Noctis Viola
+
+![Screenshot](/screenshots/noctis-viola.png)
+
+### Noctis
+
+![Screenshot](/screenshots/noctis.png)
+
 ### Nocturnal Winter
 
 ![Screenshot](/screenshots/nocturnal-winter.png)
@@ -2319,6 +2351,18 @@ The screenshots are categorized.
 ### No Clown Fiesta Light
 
 ![Screenshot](/screenshots/no-clown-fiesta-light.png)
+
+### Noctis Hibernus
+
+![Screenshot](/screenshots/noctis-hibernus.png)
+
+### Noctis Lilac
+
+![Screenshot](/screenshots/noctis-lilac.png)
+
+### Noctis Lux
+
+![Screenshot](/screenshots/noctis-lux.png)
 
 ### Nord Light
 
